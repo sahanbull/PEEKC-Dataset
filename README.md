@@ -1,3 +1,8 @@
+# Important Notice
+
+### This dataset is going through a further ethical review at the moment and will not be available publicly until the ethical examination is complete. At this point, it is safe NOT TO TREAT THIS DATASET AS ETHICALLY APPROVED. We apologise for your inconvinience. 
+
+
 # PEEK: A Large Dataset of Learner Engagement with Educational Videos
 
 ## Summary
